@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Koustav Mondal and I'm a lerner ..., from .Milky Way Galaxy...</h2>
+<h2 align="left">Hi 👋! My name is Koustav Mondal and I'm a learner ..., from .Milky Way Galaxy...</h2>
 
 ###
 
