@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Koustav Mondal and I'm a learner ..., from .Milky Way Galaxy...</h2>
+<h2 align="left">Hi 👋! My name is Koustav Mondal and I'm a learner ..., from Milky Way Galaxy...</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/6yyIrL4JczqfmFRHCl/giphy.gif" />
+<img align="right" height="150" src="https://moewalls.com/anime/samurai-anime-girl-neon-cyberpunk-car-live-wallpaper/#google_vignette" />
 
 ###
 
