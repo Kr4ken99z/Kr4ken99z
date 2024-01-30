@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://moewalls.com/anime/samurai-anime-girl-neon-cyberpunk-car-live-wallpaper/#google_vignette" />
+<img align="right" height="150" src="https://media.giphy.com/media/6yyIrL4JczqfmFRHCl/giphy.gif" />
 
 ###
 
