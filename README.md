@@ -5,32 +5,6 @@
 ###
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kr4ken99z&theme=dracula"
-        width="100%"
-        alt="GitHub Stats"
-      />
-    </td>
-
-    <td align="center" width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kr4ken99z&theme=dracula"
-        width="100%"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-###
-
-<div align="center">
   <img
     height="180"
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI3NHBneGVqMTZ1dDYwcWZ3bGc5Zm5pOHFvY211cXQyb255aTJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1SH63gOjMPpS/giphy.gif"
