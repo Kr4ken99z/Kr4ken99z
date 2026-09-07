@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Koustav Mondal and I'm a Full-Stack Developer & ECE Engineer 🚀</h2>
+<h2 align="left">Hi 👋! My name is Koustav Mondal and I'm a Full-Stack Developer 🚀</h2>
 
 ###
 
