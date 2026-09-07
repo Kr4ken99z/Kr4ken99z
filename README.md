@@ -36,7 +36,7 @@
 
 <div align="center">
 
-  <a href="https://www.instagram.com/koustav.fr/" target="_blank">
+  <a href="https://www.instagram.com/_dekoustav_/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
       height="35"
@@ -60,7 +60,7 @@
     />
   </a>
 
-  <a href="https://x.com/Zoro_99z" target="_blank">
+  <a href="https://x.com/devkoustav" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge"
       height="35"
