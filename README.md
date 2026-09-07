@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋! My name is Koustav Mondal and I'm a Full-Stack Developer 🚀, from Milky Way Galaxy...
+  Hi 👋! My name is Koustav Mondal and I'm a Full-Stack Developer, from Milky Way Galaxy...
 </h2>
 
 ###
