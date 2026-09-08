@@ -24,14 +24,6 @@
 
 ###
 
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=arduino,matlab"
-    height="40"
-    alt="Embedded and IoT"
-  />
-</div>
-
 ###
 
 <div align="center">
